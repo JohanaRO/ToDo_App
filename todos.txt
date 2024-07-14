@@ -1,4 +1,5 @@
-shower
-clean
-hello
-print
+
+clean house 
+wash car
+brush hair
+cook dinner 
