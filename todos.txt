@@ -1,5 +1,4 @@
-
-clean house 
-wash car
 brush hair
 cook dinner 
+wash car
+clean kitchen
