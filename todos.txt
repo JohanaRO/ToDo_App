@@ -2,3 +2,4 @@ brush hair
 cook dinner 
 wash car
 clean kitchen
+wash dishes
